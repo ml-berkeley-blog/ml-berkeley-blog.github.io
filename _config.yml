@@ -3,7 +3,7 @@ name: "Machine Learning @ Berkeley Blog"
 title: "Don't Overfit"
 description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/mlab_logo.png'
-favicon: 'assets/images/mlab_logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
 google_analytics: 'UA-145088911-1'
 disqus: 'ml@b'
